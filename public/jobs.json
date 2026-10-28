@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "jobType": "Full-time",
+    "salaryRange": "$800 - $1,500/month",
+    "location": "Dhaka, Bangladesh",
+    "fields": "frontend"
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "jobType": "Full-time",
+    "salaryRange": "$1,000 - $2,000/month",
+    "location": "Remote",
+    "fields": "backend"
+  },
+  {
+    "id": 3,
+    "title": "UI/UX Designer",
+    "jobType": "Part-time",
+    "salaryRange": "$500 - $1,000/month",
+    "location": "Chattogram, Bangladesh",
+    "fields": "design"
+  },
+  {
+    "id": 4,
+    "title": "React Developer",
+    "jobType": "Remote",
+    "salaryRange": "$1,200 - $2,500/month",
+    "location": "Remote",
+    "fields": "frontend"
+  },
+  {
+    "id": 5,
+    "title": "Node.js Developer",
+    "jobType": "Full-time",
+    "salaryRange": "$1,000 - $2,200/month",
+    "location": "Dhaka, Bangladesh",
+    "fields": "backend"
+  },
+  {
+    "id": 6,
+    "title": "Graphic Designer",
+    "jobType": "Contract",
+    "salaryRange": "$400 - $900/month",
+    "location": "Remote",
+    "fields": "design"
+  },
+  {
+    "id": 7,
+    "title": "Junior Frontend Developer",
+    "jobType": "Internship",
+    "salaryRange": "$200 - $500/month",
+    "location": "Barishal, Bangladesh",
+    "fields": "frontend"
+  },
+  {
+    "id": 8,
+    "title": "Python Backend Developer",
+    "jobType": "Full-time",
+    "salaryRange": "$1,500 - $3,000/month",
+    "location": "Remote",
+    "fields": "backend"
+  },
+  {
+    "id": 9,
+    "title": "Product Designer",
+    "jobType": "Full-time",
+    "salaryRange": "$1,000 - $2,000/month",
+    "location": "Dhaka, Bangladesh",
+    "fields": "design"
+  },
+  {
+    "id": 10,
+    "title": "Next.js Developer",
+    "jobType": "Remote",
+    "salaryRange": "$1,500 - $3,000/month",
+    "location": "Remote",
+    "fields": "frontend"
+  },
+  {
+    "id": 11,
+    "title": "Database Developer",
+    "jobType": "Part-time",
+    "salaryRange": "$700 - $1,400/month",
+    "location": "Sylhet, Bangladesh",
+    "fields": "backend"
+  },
+  {
+    "id": 12,
+    "title": "Web Designer",
+    "jobType": "Full-time",
+    "salaryRange": "$600 - $1,200/month",
+    "location": "Rajshahi, Bangladesh",
+    "fields": "design"
+  },
+  {
+    "id": 13,
+    "title": "Angular Developer",
+    "jobType": "Contract",
+    "salaryRange": "$1,000 - $2,000/month",
+    "location": "Remote",
+    "fields": "frontend"
+  },
+  {
+    "id": 14,
+    "title": "Java Backend Engineer",
+    "jobType": "Full-time",
+    "salaryRange": "$1,800 - $3,500/month",
+    "location": "Dhaka, Bangladesh",
+    "fields": "backend"
+  },
+  {
+    "id": 15,
+    "title": "Figma Designer",
+    "jobType": "Freelance",
+    "salaryRange": "$300 - $800/project",
+    "location": "Remote",
+    "fields": "design"
+  },
+  {
+    "id": 16,
+    "title": "Vue.js Developer",
+    "jobType": "Full-time",
+    "salaryRange": "$1,000 - $2,000/month",
+    "location": "Khulna, Bangladesh",
+    "fields": "frontend"
+  },
+  {
+    "id": 17,
+    "title": "Django Developer",
+    "jobType": "Remote",
+    "salaryRange": "$1,200 - $2,500/month",
+    "location": "Remote",
+    "fields": "backend"
+  },
+  {
+    "id": 18,
+    "title": "Mobile App UI Designer",
+    "jobType": "Part-time",
+    "salaryRange": "$500 - $1,100/month",
+    "location": "Dhaka, Bangladesh",
+    "fields": "design"
+  }
+]
