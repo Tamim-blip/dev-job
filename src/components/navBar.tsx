@@ -27,7 +27,7 @@ const NavBar = ({saveJob} : {saveJob : TJob[]}) => {
      </li>
       </ul>
     </div>
-    <a className="text-2xl font-bold">Dev<span className='text-yellow-600'>Jobs</span></a>
+    <a className="text-2xl font-bold">Dev<span className='text-blue-500'>Jobs</span></a>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
